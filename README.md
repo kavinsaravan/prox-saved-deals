@@ -269,9 +269,7 @@ This feature could integrate with the existing Prox app in several ways:
 - Integration with Prox's store/retailer database
 - Price comparison with user's usual stores
 
-## License
 
-This project was created as part of a take-home assignment for a mobile engineering position.
 
 ---
 
